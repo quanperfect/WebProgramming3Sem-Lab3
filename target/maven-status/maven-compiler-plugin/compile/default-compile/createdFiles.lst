@@ -1,6 +1,0 @@
-utils\Validator.class
-utils\DataBaseManager.class
-bean\TimeBean.class
-utils\HitChecker.class
-bean\ResultBean.class
-entity\Result.class
